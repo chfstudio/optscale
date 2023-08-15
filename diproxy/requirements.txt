@@ -1,4 +1,4 @@
-tornado==6.2
+tornado==6.3.3
 config-client==1.0.141
 restapi_client==1.0.683
 requests==2.25.0
