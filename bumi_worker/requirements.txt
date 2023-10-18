@@ -8,3 +8,4 @@ herald-client==0.0.12
 insider_client==0.0.24
 metroculus-client==0.0.3
 clickhouse-driver==0.2.2
+urllib3>=1.26.18 # not directly required, pinned by Snyk to avoid a vulnerability
