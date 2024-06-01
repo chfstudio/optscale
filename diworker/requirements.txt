@@ -1,4 +1,4 @@
-pymongo==3.5.1
+pymongo==4.6.3
 cloud_adapter==0.1.1485
 restapi_client==1.0.723
 config_client==1.0.145
