@@ -1,6 +1,6 @@
 restapi-client==1.0.551
 auth-client==0.0.79
-tornado==6.2
+tornado==6.4.1
 slack_bolt==1.4.2
 config_client==1.0.91
 optscale_exceptions==0.0.21
