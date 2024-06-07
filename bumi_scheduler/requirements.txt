@@ -1,4 +1,4 @@
-tornado==6.2
+tornado==6.4.1
 config-client==1.0.78
 kombu==4.6.8
 restapi_client==1.0.390
