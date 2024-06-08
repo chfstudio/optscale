@@ -1,6 +1,6 @@
 SQLAlchemy==1.2.14
 mysql-connector-python==2.1.7
-tornado==6.2
+tornado==6.4.1
 cloud-adapter==0.1.1485
 alembic==0.8.9
 cryptography==3.3.1
