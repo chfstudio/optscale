@@ -1,6 +1,6 @@
 restapi-client==1.0.581
 auth-client==0.0.86
-tornado==6.2
+tornado==6.4.1
 config_client==1.0.145
 optscale_exceptions==0.0.21
 sqlalchemy==1.4.23
