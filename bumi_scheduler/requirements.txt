@@ -2,3 +2,4 @@ tornado==6.2
 config-client==1.0.78
 kombu==4.6.8
 restapi_client==1.0.390
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
