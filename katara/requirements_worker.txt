@@ -4,3 +4,4 @@ katara-client==0.0.15
 kombu==4.6.8
 restapi_client==1.0.706
 boto3==1.12.25
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
