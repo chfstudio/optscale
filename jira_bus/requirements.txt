@@ -11,3 +11,4 @@ PyJWT[crypto]==1.7.1
 atlassian_jwt==1.9.0
 requests==2.25.0
 pydevd-pycharm==201.5616.27
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
