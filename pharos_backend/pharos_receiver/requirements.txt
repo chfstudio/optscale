@@ -4,3 +4,4 @@ optscale-exceptions==0.0.21
 # TODO: update version
 tornado==6.2
 kombu==4.6.8
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
