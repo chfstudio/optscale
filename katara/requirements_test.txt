@@ -5,3 +5,4 @@ pylint==2.6.0
 freezegun==0.3.8
 concurrencytest==0.1.2
 katara-client==0.0.15
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
